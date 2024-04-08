@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiagnalPrject</string>
+    <string name="listing_title">Romantic Comedy</string>
+    <string name="hintSearchMess">Search</string>
+</resources>
